@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5ff7f4c-a154-4541-8a17-d84082fc410f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day-10-js.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-10-js.html" afterPath="$PROJECT_DIR$/day-10-js.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="day-10-js.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day-10-js.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="156" column="4" lean-forward="false" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
               <folding>
                 <element signature="e#223#238#0" expanded="false" />
                 <element signature="e#546#569#0" expanded="false" />
@@ -34,6 +33,11 @@
                 <element signature="e#1033#1044#0" expanded="false" />
                 <element signature="e#1309#1320#0" expanded="false" />
                 <element signature="e#1715#1730#0" expanded="false" />
+                <element signature="e#1945#1947#0" expanded="false" />
+                <element signature="e#2434#2445#0" expanded="false" />
+                <element signature="e#2761#2773#0" expanded="false" />
+                <element signature="e#2761#2773#0" expanded="false" />
+                <element signature="e#2983#2998#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -173,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512616376679</updated>
-      <workItem from="1512616377913" duration="6241000" />
+      <workItem from="1512616377913" duration="10507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6241000" />
+    <option name="totallyTimeSpent" value="10507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -224,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day-10-js.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="156" column="4" lean-forward="false" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
           <folding>
             <element signature="e#223#238#0" expanded="false" />
             <element signature="e#546#569#0" expanded="false" />
@@ -237,6 +241,11 @@
             <element signature="e#1033#1044#0" expanded="false" />
             <element signature="e#1309#1320#0" expanded="false" />
             <element signature="e#1715#1730#0" expanded="false" />
+            <element signature="e#1945#1947#0" expanded="false" />
+            <element signature="e#2434#2445#0" expanded="false" />
+            <element signature="e#2761#2773#0" expanded="false" />
+            <element signature="e#2761#2773#0" expanded="false" />
+            <element signature="e#2983#2998#0" expanded="false" />
           </folding>
         </state>
       </provider>
